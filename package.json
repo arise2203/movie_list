@@ -1,5 +1,5 @@
 {
-    "homepage": "https://arise2203.github.io/movieList",
+    "homepage": "https://arise2203.github.io/movielist",
     "name": "movie-list",
     "version": "1.0.0",
     "description": "",
@@ -26,13 +26,11 @@
         "html-webpack-plugin": "^3.2.0",
         "style-loader": "^0.23.1",
         "webpack": "^4.29.3",
-        "webpack-cli": "^3.2.3",
+        "webpack-cli": "^3.3.12",
         "webpack-dev-server": "^3.11.3"
     },
     "dependencies": {
-        "@fortawesome/free-regular-svg-icons": "^6.1.1",
-        "@fortawesome/free-solid-svg-icons": "^6.1.1",
-        "@fortawesome/react-fontawesome": "^0.1.18",
+
         "@popperjs/core": "^2.11.5",
         "babel-plugin-macros": "^3.1.0",
         "gh-pages": "^4.0.0",
